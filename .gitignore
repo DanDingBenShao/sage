@@ -1,0 +1,20 @@
+# 输出文件 (下载的视频/音频)
+output/
+
+# Whisper 模型 (~1.5GB)
+vendor/models/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 环境变量 (本地配置)
+.env
+.env.local
