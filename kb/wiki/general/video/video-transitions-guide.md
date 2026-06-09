@@ -6,7 +6,7 @@ type: concept
 domain: [video-production]
 source: web-searched
 source_detail: [Adobe, InsideEditors, Animoto, 2025]
-related: [[video-editing]], [[video-pacing-rhythm]], [[ffmpeg-video-editing]]
+related: [[video-editing-workflow]], [[video-pacing-rhythm]], [[ffmpeg-video-editing]]
 created: 2026-06-09
 updated: 2026-06-09
 confidence: high

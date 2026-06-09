@@ -5,7 +5,7 @@ type: entity
 domain: [software-dev]
 source: human-curated
 source_detail: [https://www.douyin.com/video/7649049443420998964]
-related: [[Agent权限隔离层级]], [[工具权限建模维度]], [[RAG检索权限过滤]], [[缓存越权防护]], [[多Agent权限传递]], [[防Prompt Injection越权]], [[权限问题排查方法]], [[跨租户数据泄漏应急]]
+related: [[agent-permission-isolation-layers]], [[tool-permission-modeling-cn]], [[rag-permission-filtering-cn]], [[cache-security-cn]], [[multi-agent-permission-cn]], [[prompt-injection-prevention-cn]], [[permission-troubleshooting-cn]], [[cross-tenant-leak-response-cn]]
 tags: [douyin, video-source]
 aliases: [douyin-7649049443420998964]
 status: active
@@ -23,12 +23,12 @@ confidence: high
 - **提取**: 8 个知识点
 
 ## 提取的知识点
-- [[Agent权限隔离层级]]
-- [[工具权限建模维度]]
-- [[RAG检索权限过滤]]
-- [[缓存越权防护]]
-- [[多Agent权限传递]]
-- [[防Prompt Injection越权]]
-- [[权限问题排查方法]]
-- [[跨租户数据泄漏应急]]
+- [[agent-permission-isolation-layers]]
+- [[tool-permission-modeling-cn]]
+- [[rag-permission-filtering-cn]]
+- [[cache-security-cn]]
+- [[multi-agent-permission-cn]]
+- [[prompt-injection-prevention-cn]]
+- [[permission-troubleshooting-cn]]
+- [[cross-tenant-leak-response-cn]]
 

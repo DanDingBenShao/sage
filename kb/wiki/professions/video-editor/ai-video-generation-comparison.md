@@ -6,7 +6,7 @@ type: comparison
 domain: [video-production]
 source: web-searched
 source_detail: [Clixie, Freepik, Kevin Stratvert, 2025]
-related: [[material-generation]], [[ai-image-generation]]
+related: [[material-generation-workflow]], [[ai-image-generation-comparison]]
 created: 2026-06-09
 updated: 2026-06-09
 confidence: medium

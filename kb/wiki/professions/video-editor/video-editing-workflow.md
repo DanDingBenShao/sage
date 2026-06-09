@@ -6,7 +6,7 @@ type: workflow
 domain: [video-production]
 source: web-searched
 source_detail: [DaVinci Resolve workflow, ffmpeg docs, editing best practices, 2025]
-related: [[video-material-pipeline]], [[video-editing-pipeline]], [[video-pacing-rhythm]], [[audio-loudness-standards]], [[color-grading-basics]], [[ffmpeg-video-editing]], [[subtitle-workflow]], [[video-transitions-guide]], [[advanced-color-grading]]
+related: [[video-material-pipeline]], [[video-editing-pipeline]], [[video-pacing-rhythm]], [[audio-loudness-standards]], [[general/color/color-theory-basics]], [[ffmpeg-video-editing]], [[subtitle-workflow]], [[video-transitions-guide]], [[advanced-color-grading]]
 created: 2026-06-09
 updated: 2026-06-09
 confidence: high
@@ -59,7 +59,7 @@ prerequisites:
 │       ├── Sidechain: 人声出现时 BGM 自动降低 3-6dB
 │       └── 淡入淡出: BGM 开头 1-2s 淡入 / 结尾 1-2s 淡出
 │
-├── [5] 调色 → [[color-grading-basics]]
+├── [5] 调色 → [[general/color/color-theory-basics]]
 │   ├── 5.1 一级校色 → [原子]
 │   │   ├── Lift/Gamma/Gain: 黑位/中间调/白位
 │   │   ├── 白平衡: 吸管点白色/灰色区域

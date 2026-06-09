@@ -79,4 +79,4 @@ ProjectName/
 
 - [[video-editing-pipeline]] — 素材准备好后进入剪辑管线
 - [[audio-loudness-standards]] — 音频素材的响度规范
-- [[color-grading-basics]] — 调色是后期的事，但素材拍摄时就该考虑
+- [[general/color/color-theory-basics]] — 调色是后期的事，但素材拍摄时就该考虑

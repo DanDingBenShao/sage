@@ -6,7 +6,7 @@ type: concept
 domain: [video-production]
 source: web-searched
 source_detail: [multiple sources, 2025]
-related: [[video-material-pipeline]], [[video-pacing-rhythm]], [[audio-loudness-standards]], [[color-grading-basics]]
+related: [[video-material-pipeline]], [[video-pacing-rhythm]], [[audio-loudness-standards]], [[general/color/color-theory-basics]]
 created: 2026-06-09
 updated: 2026-06-09
 confidence: high
@@ -72,4 +72,4 @@ confidence: high
 - [[video-material-pipeline]] — 素材准备好才能开始剪辑
 - [[video-pacing-rhythm]] — 精剪阶段的核心判断依据
 - [[audio-loudness-standards]] — 音频阶段的响度目标值
-- [[color-grading-basics]] — 调色阶段的基础操作
+- [[general/color/color-theory-basics]] — 调色阶段的基础操作

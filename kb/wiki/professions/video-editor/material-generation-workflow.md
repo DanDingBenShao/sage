@@ -6,7 +6,7 @@ type: workflow
 domain: [video-production]
 source: web-searched
 source_detail: [multi-source synthesis, 2025]
-related: [[video-editing-pipeline]], [[video-material-pipeline]], [[screen-recording-setup]], [[screenshot-annotation]], [[ai-image-generation]], [[royalty-free-music]], [[stock-footage-sources]], [[script-storyboard-methodology]], [[ai-video-generation]], [[chart-animation-tools]]
+related: [[video-editing-pipeline]], [[video-material-pipeline]], [[screen-recording-setup]], [[screenshot-annotation]], [[ai-image-generation-comparison]], [[royalty-free-music]], [[stock-footage-sources]], [[script-storyboard-methodology]], [[ai-video-generation-comparison]], [[chart-animation-tools]]
 created: 2026-06-09
 updated: 2026-06-09
 confidence: high
@@ -45,12 +45,12 @@ prerequisites: []
 │   └── 3.4 后期压缩 → ffmpeg -crf 22 二次编码减体积 → [[ffmpeg-video-editing]] → [原子]
 │
 ├── [4] AI 生成素材
-│   ├── 4.1 AI 图像生成 → [[ai-image-generation]] → [原子]
+│   ├── 4.1 AI 图像生成 → [[ai-image-generation-comparison]] → [原子]
 │   │   ├── 封面图 → Midjourney V7 (画质最好)
 │   │   ├── 概念插图 → GPT-4o Image (文字标注能力最强)
 │   │   ├── 风格背景 → Midjourney --sref (确保系列一致性)
 │   │   └── 故事板预演 → DALL-E 3 (快, 改prompt方便)
-│   └── 4.2 AI 视频生成 → [[ai-video-generation]] → [原子]
+│   └── 4.2 AI 视频生成 → [[ai-video-generation-comparison]] → [原子]
 │       ├── B-roll补充 → Runway Gen-4 (相机控制强)
 │       ├── 人物对话 → Kling (口型同步最好)
 │       ├── 电影级产品 → Veo 3 (画质最好, 含音频)

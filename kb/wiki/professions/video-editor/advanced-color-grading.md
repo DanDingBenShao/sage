@@ -6,7 +6,7 @@ type: tool
 domain: [video-production]
 source: web-searched
 source_detail: [AAA Presets, MiraCamp, VFXstudy, Blackmagic docs, 2025]
-related: [[video-editing]], [[color-grading-basics]], [[video-editing-pipeline]]
+related: [[video-editing-workflow]], [[general/color/color-theory-basics]], [[video-editing-pipeline]]
 created: 2026-06-09
 updated: 2026-06-09
 confidence: high

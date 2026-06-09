@@ -6,7 +6,7 @@ type: tool
 domain: [video-production]
 source: web-searched
 source_detail: [aescripts, Udemy, CSDN, 2025]
-related: [[material-generation]], [[video-editing]]
+related: [[material-generation-workflow]], [[video-editing-workflow]]
 created: 2026-06-09
 updated: 2026-06-09
 confidence: high

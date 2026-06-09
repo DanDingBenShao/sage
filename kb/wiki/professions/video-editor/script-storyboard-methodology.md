@@ -6,7 +6,7 @@ type: concept
 domain: [video-production]
 source: web-searched
 source_detail: [multiple creator frameworks, 2025]
-related: [[material-generation]], [[video-editing]]
+related: [[material-generation-workflow]], [[video-editing-workflow]]
 created: 2026-06-09
 updated: 2026-06-09
 confidence: high
