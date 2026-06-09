@@ -54,6 +54,14 @@ confidence: high
 - [[ffmpeg-video-editing]] — FFmpeg视频编辑
 - [[chart-animation-tools]] — 图表动画工具
 
+### 科普视频制作 (NEW)
+- [[popular-science-rule-357]] — 科普视频3-5-7法则
+- [[popular-science-ai-workflow-dyjx]] — 大圆镜科普AI全流程
+- [[ai-toolchain-douyin]] — 抖音科普5步AI工具链
+- [[popular-science-topic-strategy]] — 科普视频选题策略
+- [[popular-science-script-writing]] — 科普视频文案脚本技巧
+- [[popular-science-title-cover-ops]] — 科普视频标题封面与运营
+
 ## 通用知识引用
 
 以下通用知识适用于本职业：
@@ -87,5 +95,11 @@ confidence: high
 | [[screen-recording-setup]] | 屏幕录制设置与最佳实践 |
 | [[screenshot-annotation]] | 截图标注工具与技巧 |
 | [[script-storyboard-methodology]] | 脚本与故事板编写方法论 |
+| [[popular-science-rule-357]] | 科普视频3-5-7法则（前3s钩子/5min展开/7s记忆点） |
+| [[popular-science-ai-workflow-dyjx]] | 大圆镜科普8步AI全流程（200镜头/7-8min，800元/min） |
+| [[ai-toolchain-douyin]] | 抖音科普5步AI工具链（DeepSeek→豆包→即梦→剪映） |
+| [[popular-science-topic-strategy]] | 科普视频选题策略（猎奇+硬核/反直觉/系列化/粉丝共创） |
+| [[popular-science-script-writing]] | 科普视频文案脚本技巧（悬疑叙事/反直觉结构/类比降维） |
+| [[popular-science-title-cover-ops]] | 科普视频标题封面与运营（标题公式/封面设计/变现路径） |
 | [[ffmpeg-video-editing]] | FFmpeg命令行视频编辑技巧 |
 | [[chart-animation-tools]] | 图表动画工具对比与使用指南 |
