@@ -12,6 +12,7 @@ models:    D:/TOOLS/cloude code/sage/vendor/models/ (whisper)
 知识库:    D:/TOOLS/cloude code/sage/kb/wiki/
 skills:    C:/Users/16535/.claude/skills/video-analysis/SKILL.md
            C:/Users/16535/.claude/skills/knowledge-base/SKILL.md
+           C:/Users/16535/.claude/skills/expert/SKILL.md
 ```
 
 ## Python 环境
@@ -44,6 +45,8 @@ export PYTHONPATH=D:/TOOLS/cloude code/sage/vendor
 |------|------|
 | `scripts/_extract_douyin.py` | 抖音全自动提取 (零cookie) |
 | `scripts/extract.py` | 通用提取管线 (三引擎: douyin-native/lux/yt-dlp) |
+| `scripts/_build_expert.py` | 构建职业专家 System Prompt，调用 DeepSeek 问答 |
+| `scripts/_validate_links.py` | Wiki 链接校验 (断链+孤儿页) |
 
 ## 已知问题
 
