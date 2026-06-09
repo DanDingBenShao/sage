@@ -6,7 +6,7 @@ type: concept
 domain: [video-production]
 source: web-searched
 source_detail: [video-analysis pipeline research]
-related: [[video-editing-pipeline]]
+related: [[professions/video-editor/video-editing-pipeline]]
 created: 2026-06-09
 updated: 2026-06-09
 confidence: high

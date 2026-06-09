@@ -89,6 +89,8 @@ confidence: medium
 | [[cache-security-cn]] | 缓存安全中文版 |
 | [[cross-tenant-data-leak-response]] | 跨租户数据泄露应急响应 |
 | [[cross-tenant-leak-response-cn]] | 跨租户数据泄露响应中文版 |
+| [[permission-issue-troubleshooting]] | 权限问题排查方法论 |
+| [[permission-troubleshooting-cn]] | 权限排查中文版 |
 | [[rag-retrieval-permission-filtering]] | RAG检索中的权限过滤 |
 | [[rag-permission-filtering-cn]] | RAG权限过滤中文版 |
 | [[windows-sandbox-exec]] | Windows沙箱执行配置 |

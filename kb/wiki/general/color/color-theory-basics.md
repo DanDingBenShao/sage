@@ -6,7 +6,7 @@ type: concept
 domain: [video-production]
 source: web-searched
 source_detail: [DaVinci Resolve workflow, 2025]
-related: [[video-editing-pipeline]], [[advanced-color-grading]]
+related: [[professions/video-editor/video-editing-pipeline]], [[professions/video-editor/advanced-color-grading]]
 created: 2026-06-09
 updated: 2026-06-09
 confidence: high

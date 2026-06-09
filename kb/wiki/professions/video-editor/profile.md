@@ -25,17 +25,17 @@ confidence: high
 
 ### 调色与视觉
 - [[advanced-color-grading]] — 高级调色技术
-- [[color-theory-basics]] — 色彩理论基础（通用）
+- [[general/color/color-theory-basics]] — 色彩理论基础（通用）
 
 ### 字幕与文字
 - [[subtitle-workflow]] — 字幕制作工作流
 
 ### 音频处理
-- [[audio-loudness-standards]] — 音频响度标准（通用）
+- [[general/audio/audio-loudness-standards]] — 音频响度标准（通用）
 
 ### 视频节奏与转场
-- [[video-pacing-rhythm]] — 视频节奏与韵律（通用）
-- [[video-transitions-guide]] — 转场指南（通用）
+- [[general/video/video-pacing-rhythm]] — 视频节奏与韵律（通用）
+- [[general/video/video-transitions-guide]] — 转场指南（通用）
 
 ### AI工具与生成
 - [[ai-image-generation-comparison]] — AI图像生成工具对比
